@@ -1,3 +1,24 @@
-##npm start to start it...
+# Welcome to ChatApp!
 
-#change config.js to your variables, currently it is using mine
+A simple chat App
+
+# Installation
+
+    npm install
+    npm start
+
+## config.js to edit variables
+
+    export default {
+      appId: "", //Enter your App ID
+      apiKey: "", //Enter your API KEY
+      GUID: "", // Enter your group UID
+    };
+
+## Technology
+
+This demo uses:
+
+- CometChat Pro JS SDK
+- Javascript
+- ReactJS
