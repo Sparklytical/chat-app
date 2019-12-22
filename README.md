@@ -1,5 +1,7 @@
 # Welcome to ChatApp!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvilSpark/chat-app.svg)](https://greenkeeper.io/)
+
 A simple chat App
 
 # Installation
